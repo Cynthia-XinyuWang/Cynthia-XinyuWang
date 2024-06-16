@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=50&duration=4000&pause=300&color=D3A4AC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello!+I'm+Cynthia+Wang%2C;a+PhD+Candidate+in+Financial+Econometrics+%E2%9C%A9" width="70%" />
+<img src="https://github.com/Cynthia-XinyuWang/Cynthia-XinyuWang/blob/main/images.jpeg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=500&size=50&duration=4000&pause=300&color=FFB6C1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello!+I'm+Cynthia+Wang%2C;a+PhD+Candidate+in+Financial+Econometrics+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
     💼 PhD Candidate @ HUST • Financial Econometrics
